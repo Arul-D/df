@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DairyFarmManagement'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E53DED4E1F674FD78518943BB9696C1C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A1FB1175AA14AC0945F9DE7D4407F54 }}
           package: .
